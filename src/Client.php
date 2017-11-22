@@ -1,6 +1,6 @@
 <?php
 
-namespace MatthewErskine\Client;
+namespace MatthewErskine\Guzzle;
 
 use GuzzleHttp\Client as GuzzleClient;
 

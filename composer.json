@@ -1,0 +1,19 @@
+{
+    "name": "matthewerskine/guzzle",
+    "description": "A useful base guzzle client.",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "MatthewErskine\\Guzzle\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matthew Erskine",
+            "email": "matthew@erskine.com"
+        }
+    ]
+}
